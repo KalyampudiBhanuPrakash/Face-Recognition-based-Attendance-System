@@ -1,6 +1,6 @@
 # Face-Recognition-based-Attendance-System
-Face Recognition-Based Attendance System Using ESP32-CAM AI Thinker and FTDI Module
-This documentation provides a detailed explanation of a face recognition-based attendance system using the ESP32-CAM AI Thinker and FTDI module. The project involves setting up the hardware, configuring the software, and implementing the system for real-time attendance monitoring.
+Face Recognition-Based Attendance System Using ESP32-CAM AI Thinker and FTDI Module.
+The project involves setting up the hardware, configuring the software, and implementing the system for real-time attendance monitoring.
 
 **Introduction**:
 The face recognition-based attendance system leverages the ESP32-CAM AI Thinker module's capabilities to capture and recognize faces, making it an efficient and contactless method for attendance management. The system uses a camera to capture images, processes them to recognize faces, and logs attendance in real-time.
